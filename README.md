@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="200" src="https://cdn.discordapp.com/avatars/977485640633561112/28d34574e743aa8d60346bc0beeffd3e?size=1024"  />
-</div>
-
 ###
 
 <h1 align="left">Hey 👋 What's up?</h1>
